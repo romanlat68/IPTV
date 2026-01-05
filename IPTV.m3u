@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="http://iptvx.one/epg/epg_lite.xml.gz"
 #PLAYLIST:HomTV
 
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://i.imgur.com/1IqCGe9.png" group-title="Информационные",Первый канал HD
