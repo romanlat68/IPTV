@@ -8,17 +8,3 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://iptvx.one/picons/rossia-24.png" group-title="Информационные",Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",ТНТ4
-http://95.66.188.74/THT4/mono.m3u8
-#EXTINF:-1 group-title="Развлекательные",СТС HD
-http://95.66.188.74/CTC_HD/mono.m3u8
-#EXTINF:-1 group-title="Познавательные",Живая планета
-http://95.66.188.74/Zhivaya_Planeta/mono.m3u8
-#EXTINF:-1 group-title="Познавательные",Наука
-http://178.212.71.253:8000/play/88/index.m3u8
-#EXTINF:-1 group-title="Познавательные",История
-http://95.66.188.74/Istoria/mono.m3u8
-#EXTINF:-1 group-title="Кино",Ретро
-http://178.212.71.253:8000/play/90/index.m3u8
-#EXTINF:-1 group-title="Кино",Мосфильм. Золотая коллекция
-https://s.ontivi.net/RkwSx76acuXt3NTE1376CQ/235/1767646587/index.m3u8
