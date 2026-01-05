@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://iptvx.one/epg/epg_lite.xml.gz"
+#EXTM3U x-tvg-url="https://iptvx.one/epg/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://i.imgur.com/1IqCGe9.png" group-title="Информационные",Первый канал HD
 http://95.66.188.74/PerviyHD/mono.m3u8
