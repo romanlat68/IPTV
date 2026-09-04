@@ -10,8 +10,6 @@ https://live.smotrim.ru/vgtrk/0/kultura-hd/index.m3u8
 https://live.smotrim.ru/vgtrk/0/russia24-hd/index.m3u8
 #EXTINF:-1 tvg-id="ntv-hd" tvg-logo="http://epg.one/img/2001.png" group-title="Общероссийские",НТВ HD
 http://cdn2.ntv.ru/ntv0_hd/index.m3u8
-#EXTINF:-1 tvg-id="360tv" group-title="Общероссийские",360.ru
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="moscow-24" group-title="Информационные",Москва 24
 https://stream.smotrim.ru/hls/moscow_24/playlist.m3u8?entity=channel&id=76&sign=e8e1bc15ce94ee7718ef8948500e5d21
@@ -25,8 +23,6 @@ https://stream.smotrim.ru/hls/solovievlive/playlist.m3u8?entity=channel&id=292&s
 https://dumatv.iptv2022.com/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Информационные",Вместе-РФ
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
-#EXTINF:-1 group-title="Информационные",360.ru Новости
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Тематические",Смотрим 100% Любовь
 https://stream.smotrim.ru/hls3/fasttv01/playlist.m3u8?entity=channel&id=394&sign=c87e698e917734d17feb8a476630eb24
@@ -64,8 +60,6 @@ https://live-gtrk.smotrim.ru/vgtrk/nigniynovgorod/nigniynovgorod24-hd/index.m3u8
 https://live-gtrk.smotrim.ru/vgtrk/vladivostok/vostok24-hd/index.m3u8
 #EXTINF:-1 group-title="Региональные",Сибирь 24
 https://live-gtrk.smotrim.ru/vgtrk/novosibirsk/sibir24-hd/index.m3u8
-#EXTINF:-1 group-title="Региональные",Сибирь 24. Таймыр
-https://live-gtrk.smotrim.ru/vgtrk/krasnoyarsk/sibir24-hd/index.m3u8
 #EXTINF:-1 group-title="Региональные",Башкортостан 24
 https://live-gtrk.smotrim.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
 #EXTINF:-1 group-title="Региональные",Урал 24
@@ -78,12 +72,5 @@ https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
 https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
 #EXTINF:-1 group-title="Региональные",ТОЛК
 https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
-#EXTINF:-1 group-title="Региональные",СургутИнформТВ
-https://sitv.ru/vgtrk/stv.m3u8
 #EXTINF:-1 group-title="Региональные",ОТВ Приморья
 https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Радио",Радио России
-https://podcast.smotrim.ru/radio/hls/RadioRFM/playlist.m3u8?entity=channel&id=93&sign=ab875dcd816bb883bd33aa55df13e5b5
-#EXTINF:-1 group-title="Радио",Вести FM
-https://stream.smotrim.ru/hls/vesti_fm/playlist.m3u8?entity=channel&id=199&sign=7a04ce47ac48dd9b7ee0a99025656417
