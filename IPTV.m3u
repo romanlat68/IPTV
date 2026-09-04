@@ -43,7 +43,7 @@ https://tntm.mediacdn.ru/cdn/tntmusic/playlist.m3u8
 
 #EXTINF:-1 group-title="Познавательные",Большая Азия
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AsmhlT1.png" group-title="Познавательные",World Fashion
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AsmhlT1.png" tvg-id="world-fashion-channel-en" group-title="Познавательные",World Fashion
 https://cdn.wfc.tv/cdn/stream-eng-720p.m3u8
 
 #EXTINF:-1 group-title="Региональные",Кавказ 24
@@ -72,5 +72,5 @@ https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
 https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
 #EXTINF:-1 group-title="Региональные",ТОЛК
 https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
-#EXTINF:-1 group-title="Региональные",ОТВ Приморья
+#EXTINF:-1 tvg-id="otv-primorie" group-title="Региональные",ОТВ Приморья
 https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8
